@@ -16,7 +16,7 @@ def separar_por_idade(data, nome_index):
 
     return age_convertida
 
-titanic_data = pd.read_csv('E:\Documentos\Maratona_DataSciece\Analise de Dados\Projeto Final\\titanic_data.csv')
+titanic_data = pd.read_csv('titanic_data.csv')#local do arquivo de amostra dos dados
 titanic_data['Age_convertida'] = separar_por_idade(titanic_data, 'Age') #Adicionando nova coluna, com idade convertida
 sobreviventes =  titanic_data['Survived'].sum()
 
