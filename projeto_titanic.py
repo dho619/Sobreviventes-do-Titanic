@@ -31,7 +31,7 @@ INFORMACOES COLETADAS:
     3ª Classe teve 119(34.79%) dos sobreviventes sendo 491(55.11%) dos 891 passageiros da amostra! Sobreviveu 24.24% deles.
     
    Os dados de que 34.79% por cento dos sobrevivente era de classe baixa pode enganar, pensando que eles tiveram mais
-   chance que a classe media, mas quando olhado o total deles, percebesse que menos 1/4 sobreviveu, mas como eram maioria,
+   chance que a classe media, mas quando olha o total deles, percebesse que menos de 1/4 sobreviveu, mas como eram maioria,
    aparentam ser muitos dos sobreviventes!
 '''
 
