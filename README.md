@@ -1,8 +1,10 @@
 # Projeto Final do Curso de Análise de Dados da Udacity
 
-O projeto se passa em uma análise nas amostra de dados do Titanic, com 891 dos 3547 passageiros.
+###O projeto se passa em uma análise nas amostra de dados do Titanic, com 891 dos 3547 passageiros.
 
-Algumas informações obtidas pela amostra e o código utilizado para obtê-las:
+
+
+###Algumas informações obtidas pela amostra e o código utilizado para obtê-las:
 
 **grupo_classes = titanic_data.groupby('Pclass')**
 
