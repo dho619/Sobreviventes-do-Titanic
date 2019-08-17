@@ -43,7 +43,7 @@ INFORMACOES COLETADAS:
     Sexo Feminino  233(68.13%) dos sobreviventes sendo 314(35.24%) dos 891 passageiros da amostra! Sobreviveu 74.20% delas.
     Sexo Masculino 109(31.87%) dos sobreviventes sendo 577(64.76%) dos 891 passageiros da amostra! Sobreviveu 18.91% deles
     
-    Igualdade nessas horas, as feministas não quer ashashshas
+    Bem legal essa parte, de que os homens se sacrificaram em sua maioria para dar oportunidade de viver para as mulheres
 '''
 
 grupo_por_idade = titanic_data.groupby('Age_convertida')
