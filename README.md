@@ -1,4 +1,4 @@
-# Projeto Final do [Curso de Análise de Dados da Udacity] (https://classroom.udacity.com/courses/ud170) 
+# Projeto Final do [Curso de Análise de Dados da Udacity](https://classroom.udacity.com/courses/ud170) 
 
 ## O projeto se passa em uma análise nas amostra de dados do Titanic, com 891 dos 3547 passageiros.
 
